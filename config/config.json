@@ -1,0 +1,13 @@
+{
+  "id" : "dev_001",
+  "pack_start": 1,
+  "pack_end": 1,
+  "port": "/dev/ttyUSB0",
+  "baudrate": 9600,
+  "databits": 8,
+  "parity": "N",
+  "stopbits": 1,
+  "timeout": 250,
+  "register_start": 0,
+  "register_length": 37
+}
