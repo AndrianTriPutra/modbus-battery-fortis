@@ -1,8 +1,8 @@
 {
   "id" : "dev_001",
-  "pack_start": 1,
-  "pack_end": 1,
-  "port": "/dev/ttyUSB0",
+  "pack_start": 2,
+  "pack_end": 2,
+  "port": "/dev/ttyS2",
   "baudrate": 9600,
   "databits": 8,
   "parity": "N",
